@@ -1,0 +1,11 @@
+repositorio_frontend.zip: 
+Contiene el frontend Flutter de MapacheSecure. 
+URL: https://github.com/fernanda270122/mapachesecure-app 
+ 
+repositorio_backend.zip: 
+Contiene el backend FastAPI de MapacheSecure. 
+URL: https://github.com/fernanda270122/mapachesecure-backend 
+ 
+repositorio_ia.zip: 
+Contiene el proyecto de generacion de desafios con IA usando Groq. 
+URL: https://github.com/fernanda270122/ia-desafios 
